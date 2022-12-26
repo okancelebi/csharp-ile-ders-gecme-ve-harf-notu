@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile ders gecme ve harf notu\csharp ile ders gecme ve harf notu\bin\Debug\csharp ile ders gecme ve harf notu.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile ders gecme ve harf notu\csharp ile ders gecme ve harf notu\bin\Debug\csharp ile ders gecme ve harf notu.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile ders gecme ve harf notu\csharp ile ders gecme ve harf notu\bin\Debug\csharp ile ders gecme ve harf notu.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile ders gecme ve harf notu\csharp ile ders gecme ve harf notu\obj\Debug\csharp ile ders gecme ve harf notu.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile ders gecme ve harf notu\csharp ile ders gecme ve harf notu\obj\Debug\csharp ile ders gecme ve harf notu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile ders gecme ve harf notu\csharp ile ders gecme ve harf notu\obj\Debug\csharp ile ders gecme ve harf notu.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile ders gecme ve harf notu\csharp ile ders gecme ve harf notu\obj\Debug\csharp ile ders gecme ve harf notu.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile ders gecme ve harf notu\csharp ile ders gecme ve harf notu\obj\Debug\csharp ile ders gecme ve harf notu.pdb
